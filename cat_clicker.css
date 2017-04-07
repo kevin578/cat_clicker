@@ -1,0 +1,22 @@
+img {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+}
+
+.cats {
+  float:left;
+  margin-right: 20px;
+}
