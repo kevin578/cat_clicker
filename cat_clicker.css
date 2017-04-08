@@ -1,9 +1,9 @@
 img {
   width: 400px;
   display: block;
+  cursor: pointer;
   margin-left: auto;
   margin-right: auto;
-  cursor: pointer;
 }
 
 h1 {
@@ -20,3 +20,24 @@ p {
   float:left;
   margin-right: 20px;
 }
+
+#main_body {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#cat_names {
+  float: left;
+  margin: 50px;
+}
+
+.cat_names_list {
+  font-size: 24px;
+  list-style: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+
